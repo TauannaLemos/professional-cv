@@ -1,12 +1,15 @@
 # Tauanna Lemos
-**Analista de Requisitos e Negócios | Transformação Digital | Scrum Mater | Product Owner**
+**Analista de Requisitos e Negócios | Transformação Digital | Scrum Master | Product Owner**
 
 João Pessoa, Paraíba, Brasil  
 **E-mail:** tauannasousarl@gmail.com | **Telefone:** +55 (83) 99983-2808  
 **LinkedIn:** linkedin.com/in/tauannalemos | **GitHub:** github.com/TauannaLemos
 
-## RESUMO PROFISSIONAL
-Profissional com mais de 4 anos de experiência em análise de requisitos e negócios, atuando em projetos estratégicos de transformação digital, inteligência artificial e automação de processos. Expertise em conectar negócios e tecnologia, desde a elicitação de requisitos até a entrega de soluções. Vivência em funções de Business Analyst, Product Owner e Scrum Master, com sólidas habilidades em gestão de stakeholders, metodologias ágeis e ferramentas digitais. Orientada para resultados, eficiência operacional e melhoria contínua.
+## Resumo Profissional
+- +4 anos de experiência em análise de requisitos e negócios em projetos de transformação digital, IA e automação de processos.  
+- Experiência prática como Business Analyst, Product Owner e Scrum Master, atuando desde a elicitação de requisitos até a entrega da solução.  
+- Foco em eficiência operacional, melhoria contínua e integração entre áreas técnicas e de negócio.  
+- Forte atuação em gestão de stakeholders e metodologias ágeis. 
 
 ## EXPERIÊNCIA PROFISSIONAL
 
@@ -19,15 +22,14 @@ Profissional com mais de 4 anos de experiência em análise de requisitos e neg�
 - Atuação multifuncional como Analista de Requisitos, PO e Scrum Master
 - Facilitação de cerimônias ágeis e comunicação entre equipes técnicas e de negócio
 
-**Principais Projetos e Conquistas:**
-
-- **BPO Airlines — Interline Intelligence:** Desenvolvimento de solução com Python e LLMs resultando em redução significativa no tempo de análise, redução de custos operacionais e aumento substancial na precisão das validações
-- **Portal de Ofertas Comerciais — BID Management:** Implementação em Power Platform com integração de IA que eliminou a dependência de e-mails manuais, reduziu consideravelmente erros e retrabalho
-- **SEFAZ/AP (IPVA e NFP):** Análise de requisitos, prototipagem e estimativas via Análise de Pontos de Função para sistema de tributos estaduais
-- **Bradesco (Vila Atacado):** Suporte como PO com gestão de user stories no Jira/Confluence e integração com Salesforce para plataforma de vendas B2B
-- **Naturgy (Big Bang):** Gestão de mudanças e implementação de novas funcionalidades em Salesforce CRM para utilities
-- **Vivo (Luiza e Base Única de Email):** Análise funcional e gestão de mudanças para unificação de bases de dados de clientes
-
+**Principais Projetos e Conquistas**  
+- **BPO Airlines – Interline Intelligence**: solução em Python e LLMs → redução de custos e aumento da precisão.  
+- **Portal de Ofertas Comerciais – BID Management**: Power Platform com IA → eliminação de e-mails manuais, redução de erros.  
+- **SEFAZ/AP (IPVA e NFP)**: análise e documentação de requisitos, prototipagem e estimativas via Análise de Pontos de Função.  
+- **Bradesco – Vila Atacado**: gestão de user stories no Jira/Confluence + integração Salesforce.  
+- **Naturgy – Big Bang**: gestão de mudanças em Salesforce CRM.  
+- **Vivo – Base Única de Email**: análise funcional para unificação de bases de dados.
+  
 ## FORMAÇÃO ACADÊMICA
 
 **Universidade Estadual da Paraíba (UEPB)**
@@ -39,7 +41,7 @@ Bacharelado em Administração de Empresas | 2012 — 2017
 - Briefing Executivo: IA + ChatGPT — Udemy (2024)
 - Análise de Requisitos de Software com User Stories — Udemy (2022)
 - Gestão Ágil com Scrum — Udemy (2022)
-- Workshop: Product Discovery na Prática
+- Workshop: Product Discovery na Prática — EBAC (2025)
 - Scrum Foundation Professional Certificate (SFPC™) — Certiprof (2021)
 
 ## COMPETÊNCIAS TÉCNICAS
@@ -54,7 +56,7 @@ Bacharelado em Administração de Empresas | 2012 — 2017
 
 **Tecnologias:** AI Tools, ChatGPT, Python, LLMs, Power Platform
 
-**Idiomas:** Português (Nativo), Inglês (Intermediário — B2), Espanhol (Iniciante — A1)
+**Idiomas**: Português (Nativo), Inglês (B2 — Intermediário Avançado), Espanhol (A1 — Básico)
 
 ## COMPETÊNCIAS COMPORTAMENTAIS
 
