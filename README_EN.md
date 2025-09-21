@@ -23,7 +23,7 @@ João Pessoa, Paraíba, Brazil
 - Performed multiple roles as Requirements Analyst, PO, and Scrum Master
 - Facilitated agile ceremonies and communication between technical and business teams
 
-**Main Projects and Achievements**
+**Key Projects and Achievements**
 - **BPO Airlines – Interline Intelligence**: Python and LLMs solution → cost reduction and increased accuracy.  
 - **Commercial Offers Portal – BID Management**: Power Platform with AI → elimination of manual emails, reduction of errors.
 - **SEFAZ/AP (IPVA and NFP)**: analysis and documentation of requirements, prototyping, and estimates via Function Point Analysis.  
