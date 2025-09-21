@@ -45,10 +45,15 @@ Bacharelado em Administração de Empresas | 2012 — 2017
 ## COMPETÊNCIAS TÉCNICAS
 
 **Metodologias Ágeis:** Scrum, Kanban, Agile Management, PMP/PMI Concepts, Roadmap Planning, Product Discovery
+
 **Análise de Negócios:** Requirements Analysis, User Stories, Backlog Management, Acceptance Criteria Definition
+
 **Gestão de Produto:** Product Backlog, Refinement, Product Roadmap Design, MVP Definition, Stakeholder Engagement
+
 **Ferramentas:** Azure DevOps, Jira, Confluence, Power Platform, Figma, MS Office
+
 **Tecnologias:** AI Tools, ChatGPT, Python, LLMs, Power Platform
+
 **Idiomas:** Português (Nativo), Inglês (Intermediário — B2), Espanhol (Iniciante — A1)
 
 ## COMPETÊNCIAS COMPORTAMENTAIS
