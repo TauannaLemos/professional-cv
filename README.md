@@ -21,12 +21,12 @@ Profissional com mais de 4 anos de experiência em análise de requisitos e neg�
 
 **Principais Projetos e Conquistas:**
 
-- **BPO Airlines — Interline Intelligence:** Desenvolvimento de solução com Python e LLMs resultando em redução de 40% no tempo de análise, 15% de redução de custos e aumento de 99,8% na precisão
-- **Portal de Ofertas Comerciais — BID Management:** Implementação em Power Platform + IA que eliminou 100% dos e-mails manuais, reduziu erros e retrabalho em 60%
-- **SEFAZ/AP (IPVA e NFP):** Análise de requisitos, prototipagem e estimativas via Análise de Pontos de Função
-- **Bradesco (Vila Atacado):** Suporte como PO com gestão de user stories no Jira/Confluence e integração com Salesforce
-- **Naturgy (Big Bang):** Gestão de mudanças em Salesforce CRM
-- **Vivo (Luiza e Base Única de Email):** Análise funcional e gestão de mudanças
+- **BPO Airlines — Interline Intelligence:** Desenvolvimento de solução com Python e LLMs resultando em redução significativa no tempo de análise, redução de custos operacionais e aumento substancial na precisão das validações
+- **Portal de Ofertas Comerciais — BID Management:** Implementação em Power Platform com integração de IA que eliminou a dependência de e-mails manuais, reduziu consideravelmente erros e retrabalho
+- **SEFAZ/AP (IPVA e NFP):** Análise de requisitos, prototipagem e estimativas via Análise de Pontos de Função para sistema de tributos estaduais
+- **Bradesco (Vila Atacado):** Suporte como PO com gestão de user stories no Jira/Confluence e integração com Salesforce para plataforma de vendas B2B
+- **Naturgy (Big Bang):** Gestão de mudanças e implementação de novas funcionalidades em Salesforce CRM para utilities
+- **Vivo (Luiza e Base Única de Email):** Análise funcional e gestão de mudanças para unificação de bases de dados de clientes
 
 ## FORMAÇÃO ACADÊMICA
 
