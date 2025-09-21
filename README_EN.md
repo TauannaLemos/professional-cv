@@ -5,8 +5,12 @@ João Pessoa, Paraíba, Brazil
 **Email:** tauannasousarl@gmail.com | **Phone:** +55 (83) 99983-2808  
 **LinkedIn:** linkedin.com/in/tauannalemos | **GitHub:** github.com/TauannaLemos
 
-## PROFESSIONAL SUMMARY
-Professional with over 4 years of experience in requirements and business analysis, working on strategic digital transformation, artificial intelligence, and process automation projects. Expertise in connecting business and technology, from requirements elicitation to solution delivery. Experience in Business Analyst, Product Owner, and Scrum Master roles, with strong skills in stakeholder management, agile methodologies, and digital tools. Results-oriented with focus on operational efficiency and continuous improvement.
+## Professional Summary
+- 4+ years of experience in requirements and business analysis within digital transformation, AI, and process automation projects.  
+- Hands-on experience as Business Analyst, Product Owner, and Scrum Master, from requirements elicitation to solution delivery.  
+- Strong track record in stakeholder management, agile methodologies, and cross-functional collaboration.  
+- Results-oriented professional focused on operational efficiency, continuous improvement, and business–technology alignment.  
+
 
 ## PROFESSIONAL EXPERIENCE
 
@@ -30,7 +34,7 @@ Professional with over 4 years of experience in requirements and business analys
 
 ## EDUCATION
 
-**State University of Paraíba (UEPB)**
+**Universidade Estadual da Paraíba (UEPB)**
 Bachelor's Degree in Business Administration | 2012 — 2017
 
 ## CERTIFICATIONS
@@ -39,7 +43,7 @@ Bachelor's Degree in Business Administration | 2012 — 2017
 - Executive Briefing: AI + ChatGPT — Udemy (2024)
 - Software Requirements Analysis with User Stories — Udemy (2022)
 - Agile Management with Scrum — Udemy (2022)
-- Workshop: Practical Product Discovery
+- Workshop: Practical Product Discovery — EBAC (2025)
 - Scrum Foundation Professional Certificate (SFPC™) — Certiprof (2021)
 
 ## TECHNICAL SKILLS
@@ -54,7 +58,7 @@ Bachelor's Degree in Business Administration | 2012 — 2017
 
 **Technologies:** AI Tools, ChatGPT, Python, LLMs, Power Platform
 
-**Languages:** Portuguese (Native), English (Intermediate — B2), Spanish (Beginner — A1)
+**Languages**: Portuguese (Native), English (B2 – Upper Intermediate), Spanish (A1 – Beginner) 
 
 ## SOFT SKILLS
 
