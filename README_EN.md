@@ -45,10 +45,15 @@ Bachelor's Degree in Business Administration | 2012 — 2017
 ## TECHNICAL SKILLS
 
 **Agile Methodologies:** Scrum, Kanban, Agile Management, PMP/PMI Concepts, Roadmap Planning, Product Discovery
+
 **Business Analysis:** Requirements Analysis, User Stories, Backlog Management, Acceptance Criteria Definition
+
 **Product Management:** Product Backlog, Refinement, Product Roadmap Design, MVP Definition, Stakeholder Engagement
+
 **Tools:** Azure DevOps, Jira, Confluence, Power Platform, Figma, MS Office
+
 **Technologies:** AI Tools, ChatGPT, Python, LLMs, Power Platform
+
 **Languages:** Portuguese (Native), English (Intermediate — B2), Spanish (Beginner — A1)
 
 ## SOFT SKILLS
