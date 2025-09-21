@@ -23,14 +23,13 @@ João Pessoa, Paraíba, Brazil
 - Performed multiple roles as Requirements Analyst, PO, and Scrum Master
 - Facilitated agile ceremonies and communication between technical and business teams
 
-**Key Projects and Achievements:**
-
-- **BPO Airlines — Interline Intelligence:** Developed solution using Python and LLMs resulting in significant reduction in analysis time, operational cost reduction, and substantial improvement in validation accuracy
-- **Commercial Offers Portal — BID Management:** Power Platform implementation with AI integration that eliminated manual email dependency and considerably reduced errors and rework
-- **SEFAZ/AP (IPVA and NFP):** Requirements analysis, prototyping, and estimates via Function Point Analysis for state tax system
-- **Bradesco (Vila Atacado):** PO support with user stories management in Jira/Confluence and Salesforce integration for B2B sales platform
-- **Naturgy (Big Bang):** Change management and implementation of new features in Salesforce CRM for utilities sector
-- **Vivo (Luiza and Single Email Database):** Functional analysis and change management for customer database unification
+**Main Projects and Achievements**
+- **BPO Airlines – Interline Intelligence**: Python and LLMs solution → cost reduction and increased accuracy.  
+- **Commercial Offers Portal – BID Management**: Power Platform with AI → elimination of manual emails, reduction of errors.
+- **SEFAZ/AP (IPVA and NFP)**: analysis and documentation of requirements, prototyping, and estimates via Function Point Analysis.  
+- **Bradesco – Vila Atacado**: user story management in Jira/Confluence + Salesforce integration.
+- **Naturgy – Big Bang**: change management in Salesforce CRM.
+- **Vivo – Base Única de Email**: functional analysis for database unification.
 
 ## EDUCATION
 
